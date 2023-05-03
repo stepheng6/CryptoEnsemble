@@ -29,12 +29,12 @@ function App() {
         that has the link.
         TODO: Fix the notfound route. */}
           <Routes>
-            <Route index element={<Home/>} />
-            <Route path="/project-results" element={<ProjectResults />} />
-            <Route path='/code' element={<Code/>}/>
-            <Route path='/*' element={<NotFound />} />
-            <Route path='/team' element={<Team />} />
-            <Route path='/poster' element={<Poster />} />
+            <Route path="/CryptoEnsemble" element={<Home/>} />
+            <Route path="/CryptoEnsemble/project-results" element={<ProjectResults />} />
+            <Route path='/CryptoEnsemble/code' element={<Code/>}/>
+            <Route path='/CryptoEnsemble/*' element={<NotFound />} />
+            <Route path='/CryptoEnsemble/team' element={<Team />} />
+            <Route path='/CryptoEnsemble/poster' element={<Poster />} />
 
           </Routes>
           <Outlet/>

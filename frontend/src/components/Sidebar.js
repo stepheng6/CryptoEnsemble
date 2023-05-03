@@ -28,11 +28,11 @@ const Sidebar2 = ()  => {
             {" "}
             <h2>Nav</h2>
           </MenuItem>
-          <MenuItem component={<Link to="/" />}icon={<HomeOutlinedIcon/>}>Home</MenuItem>
-          <MenuItem component={<Link to="/project-results" />}icon={<ContactsOutlinedIcon />}>Project Results</MenuItem>
-          <MenuItem component={<Link to="/team" />} icon={<PeopleOutlinedIcon />}>Team</MenuItem>
-          <MenuItem component={<Link to="/poster" />} icon={<ReceiptOutlinedIcon />}>Poster</MenuItem>
-          <MenuItem component={<Link to={{pathname: "/code"}} target='_blank' />} icon={<Code />}>Repository</MenuItem>
+          <MenuItem component={<Link to="/CryptoEnsemble" />}icon={<HomeOutlinedIcon/>}>Home</MenuItem>
+          <MenuItem component={<Link to="/CryptoEnsemble/project-results" />}icon={<ContactsOutlinedIcon />}>Project Results</MenuItem>
+          <MenuItem component={<Link to="/CryptoEnsemble/team" />} icon={<PeopleOutlinedIcon />}>Team</MenuItem>
+          <MenuItem component={<Link to="/CryptoEnsemble/poster" />} icon={<ReceiptOutlinedIcon />}>Poster</MenuItem>
+          <MenuItem component={<Link to={{pathname: "/CryptoEnsemble/code"}} target='_blank' />} icon={<Code />}>Repository</MenuItem>
         </Menu>
         
       </Sidebar>
