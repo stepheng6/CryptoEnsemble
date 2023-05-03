@@ -15,7 +15,7 @@ import {
   import Poster from './pages/Poster';
 
 function Code() {
-  window.location.replace("https://github.com/eshan-kaul/ML_Capstone");
+  window.location = "https://github.com/eshan-kaul/ML_Capstone";
   return null;
 }
 function App() {

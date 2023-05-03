@@ -38,6 +38,9 @@ Within the Ensemble Voting model, the forecasted future returns of cointegrated 
  was modeled by stacking Random Forests, Linear Regression, Orthogonal Matching Pursuit,
   and Gradient Boosting Regressor to create a robust crypto forecasting model.
       </p>
+      <p>
+        Link to repository in case the button is broken: https://github.com/eshan-kaul/ML_Capstone
+      </p>
     </>
     </div>
   );
