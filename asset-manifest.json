@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CrptoEnsemble/static/css/main.f338446c.css",
-    "main.js": "/CrptoEnsemble/static/js/main.a26fc5b1.js",
-    "static/js/787.cda612ba.chunk.js": "/CrptoEnsemble/static/js/787.cda612ba.chunk.js",
-    "static/media/poster.jpg": "/CrptoEnsemble/static/media/poster.22fc348f6846fbcb871e.jpg",
-    "static/media/Graph.png": "/CrptoEnsemble/static/media/Graph.8b116be52387ca1855da.png",
-    "index.html": "/CrptoEnsemble/index.html",
-    "main.f338446c.css.map": "/CrptoEnsemble/static/css/main.f338446c.css.map",
-    "main.a26fc5b1.js.map": "/CrptoEnsemble/static/js/main.a26fc5b1.js.map",
-    "787.cda612ba.chunk.js.map": "/CrptoEnsemble/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/CryptoEnsemble/static/css/main.f338446c.css",
+    "main.js": "/CryptoEnsemble/static/js/main.453f3977.js",
+    "static/js/787.cda612ba.chunk.js": "/CryptoEnsemble/static/js/787.cda612ba.chunk.js",
+    "static/media/poster.jpg": "/CryptoEnsemble/static/media/poster.22fc348f6846fbcb871e.jpg",
+    "static/media/Graph.png": "/CryptoEnsemble/static/media/Graph.8b116be52387ca1855da.png",
+    "index.html": "/CryptoEnsemble/index.html",
+    "main.f338446c.css.map": "/CryptoEnsemble/static/css/main.f338446c.css.map",
+    "main.453f3977.js.map": "/CryptoEnsemble/static/js/main.453f3977.js.map",
+    "787.cda612ba.chunk.js.map": "/CryptoEnsemble/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f338446c.css",
-    "static/js/main.a26fc5b1.js"
+    "static/js/main.453f3977.js"
   ]
 }
