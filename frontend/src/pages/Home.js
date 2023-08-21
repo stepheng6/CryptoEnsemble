@@ -5,10 +5,10 @@ const Home = () => {
     
     style = {{backgroundColor: 'white', height:"100vh"}}>
     <>
-      <header>
+      <header style={{"text-align":"center"}}>
         <h1>Home</h1>
       </header>
-      <h2>
+      <h2 style={{"text-align":"center"}}>
         Project Introduction
       </h2>
       <p>
